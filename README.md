@@ -4,7 +4,7 @@
 
 (EDUCATIONAL PURPOSES ONLY) bypass discord blacklisted words.
 
-Bypass blacklisted words with this SIMPLE python script!
+Bypass blacklisted words in Discord with this SIMPLE python script!
 
 Description
 -----------
