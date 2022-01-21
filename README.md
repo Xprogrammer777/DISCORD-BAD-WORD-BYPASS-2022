@@ -1,4 +1,7 @@
 # DISCORD-BAD-WORD-BYPASS-2022
+
+<img src="https://preview.redd.it/841krdvmenb61.png?auto=webp&s=a04949ed5e86e990f7e591bacd8845bdca641243"/>
+
 (EDUCATIONAL PURPOSES ONLY) bypass discord blacklisted words.
 
 Bypass blacklisted words with this SIMPLE python script!
@@ -20,7 +23,7 @@ Prerequisites
 
 Disclaimer 
 ---------------------
-/!\ Do not use this script for illegal purposes /!\
+<strong> /!\ Do not use this script for illegal purposes /!\ </strong>
 
 
 
