@@ -17,7 +17,7 @@ Usage
 3. Profit
 
 one line code to install (copy/paste) : 
-```sudo su && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && pip install pyfiglet && cd DISCORD-BAD-WORD-BYPASS-2022 && python3 ```
+```sudo su && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && pip install pyfiglet && cd DISCORD-BAD-WORD-BYPASS-2022 && python3 bypassworddiscord.py ```
 
 
 Prerequisites
@@ -26,10 +26,20 @@ Prerequisites
 * python3
 * linux
 
+Tested on
+-----------
+* Termux
+* Kali Linux
+* Arch linux
+* Debian
+
 
 Disclaimer 
 ---------------------
 <strong> /!\ Do not use this script for illegal purposes /!\ </strong>
+
+
+<center> ENJOY IT </center>
 
 
 
