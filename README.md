@@ -33,12 +33,18 @@ Tested on
 * Kali Linux
 * Arch linux
 * Debian
-(Apparently not working on windows the problem will be fixed, but you can copy/paste de code and run in here https://www.online-python.com)
+* (Apparently not working on windows the problem will be fixed, but you can copy/paste de code and run in here https://www.online-python.com)
+
+
+Notes
+-------------
+The program is still under development, some words cannot be bypassed for now. If you encounter any problem with this version please report it in the "issue" tab
 
 
 Disclaimer 
 ---------------------
 <strong> /!\ Do not use this script for illegal purposes /!\ </strong>
+I am not responsible for your actions or use of the software/damage caused by it
 
 
 <center> ENJOY IT </center>
