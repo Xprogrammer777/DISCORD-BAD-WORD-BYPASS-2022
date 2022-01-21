@@ -43,7 +43,7 @@ def startprocess():
     
     print("[*] Porcess succefully finished!")
 
-    print("[*] COPY AND PAST THIS WORD", word)
+    print("[*] COPY AND PAST THIS WORD: ", word)
 
 if word == "":
     print("[!] Please type the word")
