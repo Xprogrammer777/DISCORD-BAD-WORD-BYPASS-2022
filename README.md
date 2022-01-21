@@ -16,7 +16,8 @@ Usage
 2. Extract it and run the script
 3. Profit
 
-one line code to install (copy/paste) : ```sudo su && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && pip install pyfiglet && cd DISCORD-BAD-WORD-BYPASS-2022 && python3 ```
+one line code to install (copy/paste) : 
+```sudo su && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && pip install pyfiglet && cd DISCORD-BAD-WORD-BYPASS-2022 && python3 ```
 
 
 Prerequisites
