@@ -4,7 +4,7 @@ import time
 import pyfiglet
 
 word = ""
-banner = pyfiglet.figlet_format("DISORD BLACKLISTED WORDS BYPASS 2022")
+banner = pyfiglet.figlet_format("DISCORD BLACKLISTED WORDS BYPASS 2022")
 
 print(banner)
 print("Fast, simple EDUCATIONAL PURPOSE ONLY")
@@ -38,6 +38,7 @@ def startprocess():
 
     if "w" in word:
         word.replace('w', '\u051D')
+    #looking the code? I will add other IDN, but not homograph, because some words are not "bypassed"
 
     #print the result
     
