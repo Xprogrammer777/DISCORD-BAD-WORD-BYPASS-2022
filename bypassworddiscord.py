@@ -4,7 +4,7 @@ import time
 import pyfiglet
 
 word = ""
-banner = pyfiglet.figlet_format("DISORD BLACKLISTED WORDS BYPASS 2021")
+banner = pyfiglet.figlet_format("DISORD BLACKLISTED WORDS BYPASS 2022")
 
 print(banner)
 print("fast, simple EDUCATIONAL PURPOSE ONLY")
