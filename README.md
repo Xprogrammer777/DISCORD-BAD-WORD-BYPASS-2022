@@ -7,6 +7,7 @@ DISCORD BLACKLISTED WORDS HACKING/BYPASS
 
 Description
 -----------
+Some Discord bot block bad words, with this simple hacking tool you will be able to bypass blacklisted words.
 Bypass blacklisted words in Discord with this SIMPLE python script!
 
 Usage
