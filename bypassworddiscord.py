@@ -7,8 +7,8 @@ word = ""
 banner = pyfiglet.figlet_format("DISORD BLACKLISTED WORDS BYPASS 2022")
 
 print(banner)
-print("fast, simple EDUCATIONAL PURPOSE ONLY")
-word = str(input("type the word you want to bypass"))
+print("Fast, simple EDUCATIONAL PURPOSE ONLY")
+word = str(input("[*] Type the word you want to bypass: "))
 
 def startprocess():
 
@@ -40,10 +40,12 @@ def startprocess():
         word.replace('w', '\u051D')
 
     #print the result
+    
+    print("[*] Porcess succefully finished!")
 
-    print("COPY AND PAST THE WORD", word)
+    print("[*] COPY AND PAST THIS WORD", word)
 
 if word == "":
-    print("please type the word")
+    print("[!] Please type the word")
 else:
     startprocess()
