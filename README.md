@@ -31,6 +31,7 @@ Tested on
 * Kali Linux
 * Arch linux
 * Debian
+(Apparently not working on windows the problem will be fixed, but you can copy/paste de code and run in here https://www.online-python.com)
 
 
 Disclaimer 
