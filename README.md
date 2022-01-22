@@ -27,7 +27,7 @@ One line code to install (copy/paste) (linux/termux users only) :
 3. Type pip install pyfiglet
 4. Download github archive
 5. Extract it in a folder
-6. Open the file in the CMD (cd C:\your/directory/file.py)
+6. Open the file in the CMD (cd C:\your\directory\file.py)
 7. Enjoy
 
 
