@@ -42,7 +42,7 @@ Tested on
 * Kali Linux
 * Arch linux
 * Debian
-* Windows
+* Windows 10
 
 
 Notes
