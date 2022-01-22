@@ -13,12 +13,22 @@ Bypass blacklisted words in Discord with this SIMPLE python script!
 
 Usage
 -----
+For linux/termux user : 
 1. Download the script using git clone or download archive
 2. Extract it and run the script
 3. Profit
 
-one line code to install (copy/paste) : 
+One line code to install (copy/paste) (linux/termux users only) : 
 ```sudo su && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && pip install pyfiglet && cd DISCORD-BAD-WORD-BYPASS-2022 && echo Finished && python3 bypassworddiscord.py ```
+
+For Windows user :
+1. Download Python here https://www.python.org/downloads/release/python-3102/
+2. Open powershell app as admin
+3. Type pip install pyfiglet
+4. Download github archive
+5. Extract it in a folder
+6. Open the file in the CMD (cd C:\your/directory/file.py)
+7. Enjoy
 
 
 Prerequisites
