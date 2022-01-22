@@ -47,6 +47,7 @@ def startprocess():
     print("[*] COPY AND PAST THIS WORD: ", word)
 
 if word == "":
-    print("[!] Please type the word")
+    print("[!] Please type a word")
 else:
+    print("[*] Starting...")
     startprocess()
