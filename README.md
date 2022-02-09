@@ -13,7 +13,7 @@ Bypass blacklisted words in Discord with this SIMPLE python script!
 
 <a href="https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022/archive/refs/heads/main.zip">DOWNLOAD</a>
 
-Usage
+Usage/Install
 -----
 <strong> For Linux/Termux user : </strong>
 1. Download the script using git clone or download archive
