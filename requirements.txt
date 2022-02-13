@@ -1,0 +1,2 @@
+python==3.1
+pyfiglet==0.8
