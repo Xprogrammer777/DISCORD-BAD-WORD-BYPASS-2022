@@ -11,6 +11,7 @@ Description
 Some Discord bot block bad words, with this simple hacking tool you will be able to bypass blacklisted words.
 Bypass blacklisted words in Discord with this SIMPLE python script!
 
+Note: Linux intall script is under developement.
 <a href="https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022/archive/refs/heads/main.zip">DOWNLOAD</a>
 
 Usage/Install
@@ -29,7 +30,7 @@ One line code to install (copy/paste) (linux/termux users only) :
 3. Type pip install pyfiglet
 4. Download github archive
 5. Extract it in a folder
-6. Open the file in the CMD (cd C:\your\directory and type "python yourfile.py")
+6. Open the file in the CMD (cd C:\your\directory and type "python bypassworddiscord.py")
 7. Enjoy
 
 
