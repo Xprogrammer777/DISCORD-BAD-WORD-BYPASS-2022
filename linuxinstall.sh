@@ -1,7 +1,7 @@
 echo 'WELCOME TO THE LINUX INSTALLER'
 sleep(2)
 echo '[*]INSTALLING REQUIREMENTS'
-chmod +x pythonbadwordsbypass.py
+chmod +x bypassworddiscord.py
 pip install -r requirements.txt
 sleep(2)
 echo '[*]FINISHED'
@@ -10,7 +10,7 @@ read launch
 if $launch == "y"
 then
 echo '[*] Running'
-python3 pythonbadwordbypass.py
+python3 bypassworddiscord.py
 elif $launch ==  'n'
 then
 echo '[!] exit....'
