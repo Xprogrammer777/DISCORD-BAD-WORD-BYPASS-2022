@@ -29,7 +29,7 @@ One line code to install (copy/paste) (linux/termux users only) :
 3. Type pip install pyfiglet
 4. Download github archive
 5. Extract it in a folder
-6. Open the file in the CMD (cd C:\your\directory\file.py)
+6. Open the file in the CMD (cd C:\your\directory and type "python yourfile.py")
 7. Enjoy
 
 
@@ -55,7 +55,7 @@ The program is still under development, some words cannot be bypassed for now. I
 Disclaimer 
 ---------------------
 <strong> /!\ Do not use this script for illegal purposes /!\ </strong>
-I am not responsible for your actions or use of the software/damage caused by it
+(It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program).
 
 
 <center> ENJOY IT </center>
