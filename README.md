@@ -23,7 +23,7 @@ Usage/Install
 3. Profit
 
 One line code to install (copy/paste) (linux/termux users only) : 
-```sudo su && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && pip install pyfiglet && cd DISCORD-BAD-WORD-BYPASS-2022 && echo Finished && python3 bypassworddiscord.py ```
+```cd $HOME && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && pip install pyfiglet && cd DISCORD-BAD-WORD-BYPASS-2022 && echo Finished && python3 bypassworddiscord.py ```
 
 <strong> For Windows user : </strong>
 1. Download Python here https://www.python.org/downloads/release/python-3102/
