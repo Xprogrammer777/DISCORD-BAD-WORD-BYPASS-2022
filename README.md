@@ -26,7 +26,7 @@ One line code to install (copy/paste) (linux/termux users only) :
 ```cd $HOME && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && pip install pyfiglet && cd DISCORD-BAD-WORD-BYPASS-2022 && echo Finished && python3 bypassworddiscord.py ```
 
 <strong> For Windows user : </strong>
-1. Download Python here https://www.python.org/downloads/release/python-3102/
+1. Download Python <a href="https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe">here</a>
 2. Open powershell app as admin
 3. Type pip install pyfiglet
 4. <a href="https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022/archive/refs/heads/main.zip">Download the tool</a>
