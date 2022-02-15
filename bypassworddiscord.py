@@ -43,6 +43,8 @@ def startprocess():
     #print the result
     
     print("[*] Porcess succefully finished!")
+    
+    time.sleep(1)
 
     print("[*] COPY AND PASTE THIS WORD: ", word)
 
@@ -50,4 +52,5 @@ if word == "":
     print("[!] Please type a word")
 else:
     print("[*] Starting...")
+    time.sleep(1)
     startprocess()
