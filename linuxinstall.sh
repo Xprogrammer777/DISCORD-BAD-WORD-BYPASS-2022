@@ -1,7 +1,10 @@
+#!/bin/bash
+
 echo 'LINUX INSTALL SCRIPT'
 sleep 2
 echo '[*] Installing requirements...'
 chmod +x bypassworddiscord.py
+pip install --upgrade pip
 pip install -r requirements.txt
 sleep 2
 echo '[*] Installation completed (or requirements already satisfied)'
