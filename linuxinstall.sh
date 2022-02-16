@@ -1,10 +1,10 @@
-echo 'LINUX INSTALL'
+echo 'LINUX INSTALL SCRIPT'
 sleep 2
 echo '[*] Installing requirements...'
 chmod +x bypassworddiscord.py
 pip install -r requirements.txt
 sleep 2
-echo '[*] Installation completed'
+echo '[*] Installation completed (or requirements already satisfied)'
 echo 'Do you want to run the program? y/n'
 read launch
 if [ $launch == "y" ]
@@ -17,7 +17,7 @@ echo '[!] Exit....'
 sleep 2
 exit
 else
-echo 'Check your syntax!'
+echo 'Check your syntax! (Case sensitive "y" or "n")'
 sleep 2
 exit
 fi
