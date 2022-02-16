@@ -1,5 +1,5 @@
 echo 'WELCOME TO THE LINUX INSTALLER'
-sleep(2)
+sleep 2
 echo '[*]INSTALLING REQUIREMENTS'
 chmod +x bypassworddiscord.py
 pip install -r requirements.txt
