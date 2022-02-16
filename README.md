@@ -13,17 +13,16 @@ Some Discord bot block bad words, with this simple hacking tool you will be able
 Bypass blacklisted words in Discord with this SIMPLE python script!<br>
 <a href="https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022/archive/refs/heads/main.zip"><p align="center">DOWNLOAD</p></a> <br> <br>
 
-(Note: Linux intall script is under developement, fellow installations steps below.)
-
 Usage/Install
 -----
 <strong> For Linux/Termux user : </strong>
-1. Download the script using git clone or download archive
-2. Extract it and run the script
-3. Profit
+1. Copy the repo ```git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022```
+2. Go in the folder ```cd DISCORD-BAD-WORD-BYPASS-2022```
+3. Run the bash script to install ```bash linuxinstall.sh```
+4. Enjoy
 
 One line code to install (copy/paste) (linux/termux users only) : 
-```cd $HOME && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && pip install pyfiglet && cd DISCORD-BAD-WORD-BYPASS-2022 && echo Finished && python3 bypassworddiscord.py ```
+```cd $HOME && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && bash linuxinstall.sh ```
 
 <strong> For Windows user : </strong>
 1. Download Python <a href="https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe">here</a>
