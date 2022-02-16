@@ -14,7 +14,7 @@ if [ $launch == "y" ]
 then
 echo '[*] Running...'
 python3 bypassworddiscord.py
-elif [ $launch ==  'n' ]
+elif [ $launch ==  "n" ]
 then
 echo '[!] Exit....'
 sleep 2
