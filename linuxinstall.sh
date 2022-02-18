@@ -21,6 +21,8 @@ sleep 2
 exit
 else
 echo '[!] Check your syntax! (Case sensitive "y" or "n")'
+sleep 1
+echo '[!] QUITTING!'
 sleep 2
 exit
 fi
