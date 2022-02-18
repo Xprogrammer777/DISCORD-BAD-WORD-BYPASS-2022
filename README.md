@@ -22,7 +22,7 @@ Usage/Install
 4. Enjoy
 
 One line code to install (copy/paste) (linux/termux users only) : 
-```cd $HOME && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && bash linuxinstall.sh ```
+```cd $HOME && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && cd DISCORD-BAD-WORD-BYPASS-2022 && bash linuxinstall.sh ```
 
 <strong> For Windows user : </strong>
 1. Download Python <a href="https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe">here</a>
