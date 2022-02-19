@@ -5,12 +5,18 @@ NC='\033[0m'
 
 printf "${RED}LINUX INSTALL SCRIPT${NC}\n"
 sleep 2
+
 echo '[*] Installing requirements...'
+
 pip install --upgrade pip
 pip install -r requirements.txt
+
 echo '[*] Installing...'
+
 chmod +x bypassblacklist.py
-alias bypass='python3 ~/DISCORD-BAD-WORD-BYPASS-2022/bypassblacklist.py'
+shopt -s expand_aliases
+alias bypass=python3 ~/DISCORD-BAD-WORD-BYPASS-2022/bypassblacklist.py
+
 sleep 2
 printf "${RED}[*] Installation completed (or requirements already satisfied)${NC}\n"
 echo 'Do you want to run the program? y/n'
