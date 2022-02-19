@@ -6,9 +6,11 @@ NC='\033[0m'
 printf "${RED}LINUX INSTALL SCRIPT${NC}\n"
 sleep 2
 echo '[*] Installing requirements...'
-chmod +x bypassworddiscord.py
 pip install --upgrade pip
 pip install -r requirements.txt
+echo '[*] Installing...'
+chmod +x bypassworddiscord.py
+alias bypass='python3 ~/DISCORD-BAD-WORD-BYPASS-2022/bypassworddiscord.py'
 sleep 2
 printf "${RED}[*] Installation completed (or requirements already satisfied)${NC}\n"
 echo 'Do you want to run the program? y/n'
@@ -23,7 +25,7 @@ echo '[!] Exit....'
 sleep 2
 exit
 else
-echo '[!] Check your syntax! (Case sensitive "y" or "n")'
+echo '[!] Check your syntax, wrong input! (Case sensitive "y" or "n")'
 sleep 1
 echo '[!] QUITTING!'
 sleep 2
