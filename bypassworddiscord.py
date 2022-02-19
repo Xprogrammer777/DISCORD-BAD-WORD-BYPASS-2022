@@ -25,7 +25,7 @@ def startprocess():
         word.replace('o', '\u043E')
 
     if "p" in word:
-        word.replace('o', '\u0440')
+        word.replace('p', '\u0440')
 
     if "s" in word:
         word.replace('s', '\u0455')
