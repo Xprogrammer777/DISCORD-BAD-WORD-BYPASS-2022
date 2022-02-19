@@ -15,7 +15,7 @@ echo '[*] Installing...'
 
 chmod +x bypassblacklist.py
 shopt -s expand_aliases
-alias bypass=python3 ~/DISCORD-BAD-WORD-BYPASS-2022/bypassblacklist.py
+alias bypass='python3 ~/DISCORD-BAD-WORD-BYPASS-2022/bypassblacklist.py'
 
 sleep 2
 printf "${RED}[*] Installation completed (or requirements already satisfied)${NC}\n"
