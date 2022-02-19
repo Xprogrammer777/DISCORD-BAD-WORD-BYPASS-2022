@@ -1,10 +1,11 @@
-#some problem with the other script I'm fixing a issue so here is a "test"
+#Report any issue on Github.
 
 import os
 import sys
 import time
 import pyfiglet
 
+# Note : the str "word" is only the raw input by user, it will not change...
 word = ""
 banner = pyfiglet.figlet_format("DISCORD BLACKLISTED WORDS BYPASS 2022")
 
@@ -40,7 +41,6 @@ def startprocess():
 
     if "w" in word:
         bypassed = word.replace('w', '\u051D')
-    #looking the code? I will add other IDN, but not homograph, because some words are not "bypassed"
 
     #print the result
     
