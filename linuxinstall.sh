@@ -3,14 +3,14 @@
 RED='\033[1;31m'
 NC='\033[0m'
 
-echo 'LINUX INSTALL SCRIPT'
+printf "${RED}LINUX INSTALL SCRIPT${NC}"
 sleep 2
 echo '[*] Installing requirements...'
 chmod +x bypassworddiscord.py
 pip install --upgrade pip
 pip install -r requirements.txt
 sleep 2
-printf "I ${RED}[*] Installation completed (or requirements already satisfied)${NC}"
+printf "${RED}[*] Installation completed (or requirements already satisfied)${NC}"
 echo 'Do you want to run the program? y/n'
 read launch
 if [ $launch == "y" ]
