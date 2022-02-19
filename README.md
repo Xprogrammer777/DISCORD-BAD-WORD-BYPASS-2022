@@ -44,8 +44,9 @@ Tested on
 * Termux
 * Kali Linux
 * Arch linux
-* Debian
+* Debian 10
 * Windows 10
+* Windows 8
 
 
 Notes
