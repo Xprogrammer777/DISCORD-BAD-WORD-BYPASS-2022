@@ -18,29 +18,32 @@ def startprocess():
     if "a" in word:
         bypassed = word.replace('a', '\u0430') 
 
-    if "c" in word:
+    elif "c" in word:
         bypassed = word.replace('c', '\u03F2')
 
-    if "e" in word:
+    elif "e" in word:
         bypassed = word.replace('e', '\u0435')
 
-    if "o" in word:
+    elif "o" in word:
         bypassed = word.replace('o', '\u043E')
 
-    if "p" in word:
+    elif "p" in word:
         bypassed = word.replace('p', '\u0440')
 
-    if "s" in word:
+    elif "s" in word:
         bypassed = word.replace('s', '\u0455')
 
-    if "d" in word:
+    elif "d" in word:
         bypassed = word.replace('d', '\u0501')
     
-    if "q" in word:
+    elif "q" in word:
         bypassed = word.replace('q', '\u051B')
 
-    if "w" in word:
+    elif "w" in word:
         bypassed = word.replace('w', '\u051D')
+        
+    else:
+       print("[!] Sorry, can't bypass this word, we will release a new update to bypass all words")
 
     #print the result
     
