@@ -10,7 +10,7 @@ word = ""
 banner = pyfiglet.figlet_format("DISCORD BLACKLISTED WORDS BYPASS 2022")
 
 print(banner)
-print("A tool by Xprogrammer777")
+print("A tool by Xprogrammer777 \n")
 word = str(input("[*] Type the word you want to bypass: "))
 
 def startprocess():
