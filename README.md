@@ -20,8 +20,7 @@ Usage/Install
 1. Copy the repo ```git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022```
 2. Go in the folder ```cd DISCORD-BAD-WORD-BYPASS-2022```
 3. Run the bash script to install ```bash linuxinstall.sh```
-4. Run it just by typing "bypass" in your terminal!
-5. Enjoy
+4. Enjoy
 
 One line code to install (copy/paste) (linux/termux users only) : 
 ```cd $HOME && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && cd DISCORD-BAD-WORD-BYPASS-2022 && bash linuxinstall.sh ```
