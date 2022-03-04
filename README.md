@@ -21,6 +21,7 @@ Usage/Install
 2. Go in the folder ```cd DISCORD-BAD-WORD-BYPASS-2022```
 3. Run the bash script to install ```bash linuxinstall.sh```
 4. Enjoy
+5.Note : working with python2 and 3
 
 One line code to install (copy/paste) (linux/termux users only) : 
 ```cd $HOME && git clone https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022 && cd DISCORD-BAD-WORD-BYPASS-2022 && bash linuxinstall.sh ```
