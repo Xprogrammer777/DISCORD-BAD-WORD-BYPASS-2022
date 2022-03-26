@@ -41,6 +41,7 @@ def startprocess():
 
     elif "w" in word:
         bypassed = word.replace('w', '\u051D')
+        
     else:
         print("[!] Sorry, can't bypass this word, we will release a new update to bypass all words")
         time.sleep(1)
@@ -53,12 +54,6 @@ def startprocess():
 
     print("[*] COPY AND PASTE THIS WORD: ", bypassed)
         
-    else:
-       print("[!] Sorry, can't bypass this word, we will release a new update to bypass all words")
-       time.sleep(1)
-       print("[!] QUITTING!")
-       quit()
-
     #print the result
 
 
