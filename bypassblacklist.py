@@ -60,6 +60,7 @@ def startprocess():
 if word == "":
     time.sleep(1)
     print("[!] Please type a word")
+    time.sleep(1)
 else:
     print("[*] Starting...")
     time.sleep(1)
