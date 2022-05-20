@@ -29,7 +29,7 @@ One line code to install (copy/paste) (linux/termux users only) :
 <strong> For Windows user : </strong>
 1. Download Python <a href="https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe">here</a>
 2. Open powershell app as admin
-3. open Powershell as admin and type pip install pyfiglet
+3. Type ```pip install pyfiglet``` in the PowerShell
 4. <a href="https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022/archive/refs/heads/main.zip">Download the tool</a>
 5. Extract it in a folder
 6. Open the file in the CMD (cd C:\your\directory and type "python bypassblacklist.py")
