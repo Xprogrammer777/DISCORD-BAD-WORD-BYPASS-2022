@@ -12,7 +12,7 @@ Description
 -----------
 Some Discord bot block bad words, with this simple hacking tool you will be able to bypass blacklisted words.
 Bypass blacklisted words in Discord with this SIMPLE python script!<br>
-<a href="https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022/archive/refs/heads/main.zip">DOWNLOAD</a> <br> <br>
+<p align="center"><a href="https://github.com/Xprogrammer777/DISCORD-BAD-WORD-BYPASS-2022/archive/refs/heads/main.zip">DOWNLOAD</a></p> <br> <br>
 
 Usage/Install
 -----
