@@ -48,11 +48,11 @@ def startprocess():
         print("[!] QUITTING!")
         quit()
         
-    print("[*] Porcess succefully finished!")
+    print("[*] Process succefully finished!")
     
     time.sleep(1)
 
-    print("[*] COPY AND PASTE THIS WORD: ", bypassed)
+    print("[*] COPY AND PASTE IN DISCORD THIS WORD: ", bypassed)
         
     #print the result
 
